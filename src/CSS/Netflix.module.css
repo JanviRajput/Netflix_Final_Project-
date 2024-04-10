@@ -1,0 +1,21 @@
+
+/* .boxs{ */
+    /* background: */
+     /* linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7))  */
+     /* url("https://assets.nflxext.com/ffe/siteui/vlv3/9d3533b2-0e2b-40b2-95e0-ecd7979cc88b/a3873901-5b7c-46eb-b9fa-12fea5197bd3/IN-en-20240311-popsignuptwoweeks-perspective_alpha_website_large.jpg"); */
+/* } */
+
+
+.dropdown{
+    background-color: black;
+    opacity: 0.7;
+    border-color: white;
+    color: white;
+    height: 30px;
+}
+/* .faq{
+    background-color: black;
+}
+Accordion.Header{
+    background-color: black;
+} */
